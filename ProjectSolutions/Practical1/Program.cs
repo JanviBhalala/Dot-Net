@@ -13,8 +13,9 @@ namespace Practical1
             Pattern3();
             Console.WriteLine();
             Pattern4();
-            
             Console.ReadKey();
+
+            
         }
 
         static void Pattern1()
@@ -50,19 +51,17 @@ namespace Practical1
         }
         static void Pattern4()
         {
-            for (int i = 0; i < 5; i++)
+            for (int i = 1,int k = 0; i <= 5; ++i)
             {
-                for (int j = 4; j>=0; j--)
+                for (int space = 1; space <= 5 - i; ++space)
+                { Console.Write(""); }
+                while ( k != 2 * (i - 1))
                 {
-                    Console.Write("");
+                Console.Write("*");
+                ++k;
                 }
-
-                for (int k = 1; k <= i + 1; k++)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
-            }
+            Console.WriteLine();
+        }
         }
     }
 }
