@@ -18,6 +18,12 @@ namespace Practical1
             
         }
 
+       
+        // *****
+        // *****
+        // *****
+        // *****
+        // *****
         static void Pattern1()
         {
             for (int i = 0; i < 5; i++)
@@ -27,6 +33,12 @@ namespace Practical1
                 Console.WriteLine();
             }
         }
+       
+        //*****
+        //****
+        //***
+        //**
+        //*
         static void Pattern2()
         {
             for (int i = 0; i < 5; i++)
@@ -37,6 +49,11 @@ namespace Practical1
             }
 
         }
+        //*
+        //**
+        //***
+        //****
+        //*****
         static void Pattern3()
         {
             for (int i = 0; i < 5; i++)
@@ -49,19 +66,24 @@ namespace Practical1
                 Console.WriteLine();
             }
         }
+        //    *
+        //   * *
+        //  * * *
+        // * * * *
+        //* * * * *
+
         static void Pattern4()
         {
-            for (int i = 1,int k = 0; i <= 5; ++i)
+            for (int i = 0; i < 5; i++)
             {
-                for (int space = 1; space <= 5 - i; ++space)
-                { Console.Write(""); }
-                while ( k != 2 * (i - 1))
+                for (int k = 0; k < 4 - i; k++)
+                    Console.Write(" ");
+                for (int j = 0; j <= i; j++)
                 {
-                Console.Write("*");
-                ++k;
+                    Console.Write("* ");
                 }
-            Console.WriteLine();
-        }
+                Console.WriteLine();
+            }
         }
     }
 }
