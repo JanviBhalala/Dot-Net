@@ -1,0 +1,11 @@
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\bin\Debug\netcoreapp3.1\ExtraPractical1.exe
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\bin\Debug\netcoreapp3.1\ExtraPractical1.deps.json
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\bin\Debug\netcoreapp3.1\ExtraPractical1.runtimeconfig.json
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\bin\Debug\netcoreapp3.1\ExtraPractical1.runtimeconfig.dev.json
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\bin\Debug\netcoreapp3.1\ExtraPractical1.dll
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\bin\Debug\netcoreapp3.1\ExtraPractical1.pdb
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\obj\Debug\netcoreapp3.1\ExtraPractical1.csprojAssemblyReference.cache
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\obj\Debug\netcoreapp3.1\ExtraPractical1.AssemblyInfoInputs.cache
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\obj\Debug\netcoreapp3.1\ExtraPractical1.AssemblyInfo.cs
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\obj\Debug\netcoreapp3.1\ExtraPractical1.dll
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical 3\obj\Debug\netcoreapp3.1\ExtraPractical1.pdb

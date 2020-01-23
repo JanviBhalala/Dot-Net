@@ -1,0 +1,11 @@
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\bin\Debug\netcoreapp3.1\Practical2.exe
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\bin\Debug\netcoreapp3.1\Practical2.deps.json
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\bin\Debug\netcoreapp3.1\Practical2.runtimeconfig.json
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\bin\Debug\netcoreapp3.1\Practical2.runtimeconfig.dev.json
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\bin\Debug\netcoreapp3.1\Practical2.dll
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\bin\Debug\netcoreapp3.1\Practical2.pdb
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\obj\Debug\netcoreapp3.1\Practical2.csprojAssemblyReference.cache
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\obj\Debug\netcoreapp3.1\Practical2.AssemblyInfoInputs.cache
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\obj\Debug\netcoreapp3.1\Practical2.AssemblyInfo.cs
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\obj\Debug\netcoreapp3.1\Practical2.dll
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\Practical2\obj\Debug\netcoreapp3.1\Practical2.pdb
