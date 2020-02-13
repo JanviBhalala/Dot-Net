@@ -1,0 +1,11 @@
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\bin\Debug\netcoreapp3.1\PRACTICAL4.exe
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\bin\Debug\netcoreapp3.1\PRACTICAL4.deps.json
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\bin\Debug\netcoreapp3.1\PRACTICAL4.runtimeconfig.json
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\bin\Debug\netcoreapp3.1\PRACTICAL4.runtimeconfig.dev.json
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\bin\Debug\netcoreapp3.1\PRACTICAL4.dll
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\bin\Debug\netcoreapp3.1\PRACTICAL4.pdb
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\obj\Debug\netcoreapp3.1\PRACTICAL4.csprojAssemblyReference.cache
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\obj\Debug\netcoreapp3.1\PRACTICAL4.AssemblyInfoInputs.cache
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\obj\Debug\netcoreapp3.1\PRACTICAL4.AssemblyInfo.cs
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\obj\Debug\netcoreapp3.1\PRACTICAL4.dll
+D:\V.V.P\sem 6\Dot-Net\ProjectSolutions\PRACTICAL4\obj\Debug\netcoreapp3.1\PRACTICAL4.pdb
